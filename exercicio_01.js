@@ -1,13 +1,3 @@
-console.log("Olá, Mundo!");
-
-let nome = "Tiago";
-let idade = 17;
-let peso = 71.2;
-
-
-console.log("Meu nome é: " + nome);
-console.log("Eu tenho ");
-
 
 function somarNumeros(){
     let soma = 0;
@@ -32,4 +22,3 @@ function somarNumeros(){
 
 };
 
-somarNumeros()
