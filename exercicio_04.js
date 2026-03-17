@@ -31,4 +31,4 @@ function ordenacao(){
     }
 }
 
-ordenacao();
+//ordenacao();
