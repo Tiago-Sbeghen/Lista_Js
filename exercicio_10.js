@@ -7,7 +7,7 @@ function folhaDePagamento(){
     let nome = prompt("Informe o nome do Funcionário");
     let salario_bruto = parseFloat(prompt("Informe o salário bruto: "));
     
-    desconto = salario_bruto * 0.8;
+    desconto = salario_bruto * 0.08;
     salario_liquido = salario_bruto - desconto; 
 
     console.log("Nome: " + nome);
@@ -17,4 +17,4 @@ function folhaDePagamento(){
 
 };
 
-folhaDePagamento()
+//folhaDePagamento()
