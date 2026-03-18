@@ -15,4 +15,4 @@ function tranformacaoNumero(){
 
 };
 
-tranformacaoNumero()
+//tranformacaoNumero()
