@@ -25,7 +25,7 @@ function balancoGeral() {
         alert("Lucro: " + total);
     } else {
         alert("Prejúizo: " + total);
-    }
+    };
 
 
 };
