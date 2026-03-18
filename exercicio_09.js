@@ -17,4 +17,4 @@ function ordenacao(){
 
 };
 
-ordenacao()
+//ordenacao()
